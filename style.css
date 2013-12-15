@@ -1,0 +1,11 @@
+
+#navigation {}
+	img
+{
+	opacity:1;
+}
+img:hover
+{
+	opacity:0.4;
+}
+
